@@ -129,25 +129,28 @@ ai_brain.predict(input_scaled)
 
 ## Dataset Information
 
-![Screenshot_395](https://user-images.githubusercontent.com/75235455/187062136-8fc58bd6-70f8-47a1-bbf8-c06504034bc4.png)
+![Screenshot_403](https://user-images.githubusercontent.com/77089743/187085346-758def9d-6edd-42dc-8ccd-ece63b9e37c4.png)
 
 
 ## OUTPUT
 
 ### Training Loss Vs Iteration Plot
 
-![Screenshot_397](https://user-images.githubusercontent.com/75235455/187062151-57cd3d20-be1d-4d55-832b-5cb7f39b710a.png)
+
+![Screenshot_400](https://user-images.githubusercontent.com/77089743/187085355-d79cb99d-89a0-409f-8a23-20226b1031e0.png)
 
 
 
 ### Test Data Root Mean Squared Error
 
-![Screenshot_399](https://user-images.githubusercontent.com/75235455/187077554-7a8a2029-f473-4849-9e91-a42b81cfd50a.png)
+
+![Screenshot_402](https://user-images.githubusercontent.com/77089743/187085359-d4b95cd0-59bf-4015-9694-1007ea6df235.png)
 
 
 ### New Sample Data Prediction
 
-![Screenshot_396](https://user-images.githubusercontent.com/75235455/187062162-efe7f5b4-38b4-4274-8d5f-ebc5f39aacb6.png)
+![Screenshot_401](https://user-images.githubusercontent.com/77089743/187085368-425feb37-204f-4204-8f03-b529b1017754.png)
+
 
 ## RESULT
 Thus a Neural network for Regression model is Implemented.
